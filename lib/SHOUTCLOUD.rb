@@ -1,4 +1,4 @@
-require "SHOUTCLOUD/version"
+require "SHOUTCLOUD/VERSION"
 require "json"
 require "httparty"
 
