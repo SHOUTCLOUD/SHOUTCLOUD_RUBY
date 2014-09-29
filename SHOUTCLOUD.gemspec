@@ -6,10 +6,10 @@ require 'SHOUTCLOUD/version'
 Gem::Specification.new do |spec|
   spec.name          = "SHOUTCLOUD"
   spec.version       = SHOUTCLOUD::VERSION
-  spec.authors       = ["John Barton (joho)"]
-  spec.email         = ["jrbarton@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["JOHN BARTON"]
+  spec.email         = ["JRBARTON@GMAIL.COM"]
+  spec.summary       = %q{WEBSCALE UPCASE}
+  spec.description   = %q{MONKEYPATCH IN A MORE WEBSCALE UPCASE}
   spec.homepage      = ""
   spec.license       = "MIT"
 
@@ -20,4 +20,5 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.5"
   spec.add_development_dependency "rake"
+  spec.add_runtime_dependency "httparty"
 end
