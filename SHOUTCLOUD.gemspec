@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'SHOUTCLOUD/version'
+require 'SHOUTCLOUD/VERSION'
 
 Gem::Specification.new do |spec|
   spec.name          = "SHOUTCLOUD"
@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["JRBARTON@GMAIL.COM"]
   spec.summary       = %q{WEBSCALE UPCASE}
   spec.description   = %q{MONKEYPATCH IN A MORE WEBSCALE UPCASE}
-  spec.homepage      = "https://github.com/shoutcloud/SHOUTCLOUD_RUBY"
+  spec.homepage      = "HTTPS://GITHUB.COM/SHOUTCLOUD/SHOUTCLOUD_RUBY"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
