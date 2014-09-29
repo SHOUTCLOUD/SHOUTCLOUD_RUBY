@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["JRBARTON@GMAIL.COM"]
   spec.summary       = %q{WEBSCALE UPCASE}
   spec.description   = %q{MONKEYPATCH IN A MORE WEBSCALE UPCASE}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/shoutcloud/SHOUTCLOUD_RUBY"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
