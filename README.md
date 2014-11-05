@@ -1,29 +1,29 @@
 # SHOUTCLOUD
 
-TODO: Write a gem description
+TODO: WRITE A GEM DESCRIPTION
 
-## Installation
+## INSTALLATION
 
-Add this line to your application's Gemfile:
+ADD THIS LINE TO YOUR APPLICATION'S GEMFILE:
 
     gem 'SHOUTCLOUD'
 
-And then execute:
+AND THEN EXECUTE:
 
     $ bundle
 
-Or install it yourself as:
+OR INSTALL IT YOURSELF AS:
 
     $ gem install SHOUTCLOUD
 
-## Usage
+## USAGE
 
-TODO: Write usage instructions here
+TODO: WRITE USAGE INSTRUCTIONS HERE
 
-## Contributing
+## CONTRIBUTING
 
-1. Fork it ( http://github.com/<my-github-username>/SHOUTCLOUD/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+1. FORK IT ( HTTP://GITHUB.COM/<MY-GITHUB-USERNAME>/SHOUTCLOUD/FORK )
+2. CREATE YOUR FEATURE BRANCH (`git checkout -b MY-NEW-FEATURE`)
+3. COMMIT YOUR CHANGES (`git commit -am 'ADD SOME FEATURE'`)
+4. PUSH TO THE BRANCH (`git push origin MY-NEW-FEATURE`)
+5. CREATE NEW PULL REQUEST
